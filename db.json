@@ -1,0 +1,32 @@
+{
+  "student": [
+    {
+      "name": "sobiy",
+      "email": "sobiya@gmail.com",
+      "password": "4567",
+      "contact": "43483797580",
+      "id": 1
+    },
+    {
+      "name": "pooja",
+      "email": "pooja@gmail.com",
+      "password": "1234",
+      "contact": "583575983",
+      "id": 2
+    },
+    {
+      "name": "Rani",
+      "email": "rani@gmail.com",
+      "password": "8900",
+      "contact": "67576876",
+      "id": 3
+    },
+    {
+      "name": "Roohi",
+      "email": "roohi@gmail.com",
+      "password": "8800",
+      "contact": "4645757",
+      "id": 4
+    }
+  ]
+}
